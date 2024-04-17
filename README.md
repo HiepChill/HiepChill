@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hiep Chu</h1>
+<h1 align="center">Hi 👋, I'm Hiep Chu or you can call me Andrew</h1>
 
 
 <h3> </h3>
