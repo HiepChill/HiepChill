@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://github.com/HiepChill/HiepChill/blob/main/name.svg" alt="Andrew Chu" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Hiep Chu or you can call me Andrew</h1>
 
 
