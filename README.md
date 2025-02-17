@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+WorldT!+👋;This+is+Andrew+Chu....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;This+is+Andrew+Chu....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -26,6 +26,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiepchill&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=hiepchill&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hiepchill&theme=midnight-purple&hide_border=true)<br/>
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiepchill&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiepchill&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+</details>
 
 <p align="center">
         <img src="https://github.com/HiepChill/HiepChill/blob/main/bottom.svg" alt="Github Stats" />
