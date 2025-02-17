@@ -10,6 +10,12 @@
 
 <h3> </h3>
 
+<h3 align="left">👨🏻‍💻 About me</h3>
+
+-   🪪 Hiep Chu (Andrew Chu)
+
+-   🏠 Hanoi, Vietnam
+
 <h3 align="left">:desktop_computer: Connect with me:</h3>
 <p align="left">
   <a href="https://stackoverflow.com/users/17097222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17097222" height="30" width="40" /></a>
@@ -38,7 +44,6 @@
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiepchill&show_icons=true&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiepchill&show_icons=true&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hiepchill&theme=midnight-purple&hide_border=true"/>
 
 </details>
 
