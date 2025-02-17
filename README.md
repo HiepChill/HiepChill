@@ -24,3 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiepchill&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=hiepchill&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hiepchill&theme=midnight-purple&hide_border=true)<br/>
+
+<p align="center">
+        <img src="https://github.com/HiepChill/HiepChill/blob/main/bottom.svg" alt="Github Stats" />
+</p>
