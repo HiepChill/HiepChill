@@ -41,12 +41,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br />
 
 <details>
-  <summary><b>⚡ Github Stats 📊</b></summary>
+  <summary><h3><b>⚡ Github Stats 📊</b><h3></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiepchill&show_icons=true&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
